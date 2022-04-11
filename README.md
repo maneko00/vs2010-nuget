@@ -31,3 +31,6 @@ https://marketplace.visualstudio.com/
 ```
 ### 確認
 適当なプロジェクトを開き、参照設定を右クリックすると、「NuGetパッケージの管理」が追加されているはず
+
+
+https://qiita.com/nia_tn1012/items/0815e1f493ac49d20d41
