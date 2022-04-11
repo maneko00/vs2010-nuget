@@ -34,3 +34,4 @@ https://marketplace.visualstudio.com/
 
 
 https://qiita.com/nia_tn1012/items/0815e1f493ac49d20d41
+https://www.nuget.org/downloads
